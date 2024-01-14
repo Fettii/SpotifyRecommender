@@ -1,3 +1,2 @@
 # SpotifyRecommender
-School final project
-This program allows users to self input the name and artist of songs and recieve information back from Spotify's API.
+This was a project created as a final project for my Introduction to Computer Science. This was the first time for me coding a project by myself and such I struggled but it taught me alot about coding and encouraged me to keep striving towards getting better :)
